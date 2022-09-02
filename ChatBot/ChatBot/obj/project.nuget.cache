@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2H4yYZVRvhuqnBxMQe+gD8LLSSvBa+9CqVJOvUcTWFppnvAHrTqqnMdSz0Auc+N0w0aD7TjGXcrQohuK0TzWJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xoli_Kelvin\\source\\repos\\ChatBot\\ChatBot\\ChatBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xoli_Kelvin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
